@@ -5,5 +5,6 @@ public class Main {
 		System.out.println("정은지");
 		World.run();
 		World.run();
+		Hello.run();
 	}
 }
